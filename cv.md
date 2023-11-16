@@ -17,3 +17,25 @@
                 *Ukrainian* (Mother tongue)
 				*Russian* (fluent) 
 				*English* (Intermediate) 
+
+## Code example:
+```
+
+// Задание 1:
+for(let i=10; i<=50; i=i+2) {
+    console.log(i)
+
+// Задание 2:
+const showfullName = (firstName , lastName) => {
+    return firstName + ' ' + lastName;
+}
+const fullName = showfullName ('Максим', 'Бортник');
+console.log(fullName); 
+
+// Задание 3:
+let i = 21
+while(i<=67) {
+    console.log(i);
+    i=i+2;
+    
+```
