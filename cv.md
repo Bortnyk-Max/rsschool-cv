@@ -1,9 +1,9 @@
 # Maksym Bortnyk
 
 ## Contacts:
-* **Location:** Odessa, Ukraine
-* **Phone:** +38 (095) 30-94-825
-* **Email:** bortmehanik2@gmail.com
+* **Location:** Odesa, Ukraine
+* **Phone:** +38 (095) 00-00-000
+* **Email:** maxbbbbbb2@gmail.com
 * **GitHub:** Bortnyk-Max
 * **Telegram:** @max_bortnik
 
@@ -15,7 +15,6 @@
 ## Skills:
 **Languages** 		    
                 *Ukrainian* (Mother tongue)
-				*Russian* (fluent) 
 				*English* (Intermediate)
 
 ## Code example:
